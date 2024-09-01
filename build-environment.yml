@@ -7,3 +7,5 @@ dependencies:
   - pip:
     - jupyterlite-xeus>=0.1.8,<0.2
     - voici-core>=0.6,<0.7
+    - ipympl
+    - ipywidgets
