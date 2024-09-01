@@ -9,3 +9,5 @@ dependencies:
     - voici-core>=0.6,<0.7
     - ipympl
     - ipywidgets
+    - matplotlib
+    - numpy
